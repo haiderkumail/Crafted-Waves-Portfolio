@@ -1,4 +1,34 @@
 [
+    {
+  "name": "Thrifty Wheels Dubai",
+  "desc": "A full-stack luxury car rental platform built for seamless booking and management, tailored for the Dubai market.",
+  "image": "1",
+  "category": "mern",
+  "links": {
+    "view": "https://thrifty-wheels.vercel.app/",
+    "code": "https://github.com/haiderkumail/ThriftyWheels"
+  }
+},
+    {
+    "name": "Kashaf Fabrics",
+    "desc": "Full stack fashion e-commerce website for running a clothing brand.",
+    "image": "2",
+    "category": "Mern",
+    "links": {
+      "view": "https://e-commerce-site-ashy-chi.vercel.app/",
+      "code": "https://github.com/haiderkumail/E-commerce-site"
+    }
+  },
+  {
+    "name": "Xova Technologies",
+    "desc": "A tech company website that shows the services they are providing.",
+    "image": "3",
+    "category": "basicweb",
+    "links": {
+      "view": "https://xova-tech-website.vercel.app/",
+      "code": "https://github.com/haiderkumail/XovaTech-Website"
+    }
+  },
   {
     "name": "Bank Management System",
     "desc": "A comprehensive Android Bank Management System app with secure account management, CRUD transactions, and real-time data sync using Java, SQLite, Firebase, RoomDB, and MVVM architecture.",
@@ -39,16 +69,7 @@
       "code": "https://github.com/jigar-sable/resumegen"
     }
   },
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
+
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
@@ -65,78 +86,10 @@
     "image": "bootstrapportfolio",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://shazab-portfolio.vercel.app/",
+      "code": "https://github.com/haiderkumail/Shazab-Portfolio"
     }
   }
+
+  
 ]
